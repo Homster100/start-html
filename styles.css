@@ -1,0 +1,37 @@
+body{
+    background: rgb(201, 232, 235);
+    color:rgb(28, 28, 131);
+    
+}
+
+h1 {
+    color: rgb(96, 28, 155);
+}
+
+h3{
+    color: rgb(3, 48, 18);
+}
+
+a{
+    font-family: Monserrat, sans-serif;
+    font-size: 28 px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+}
+
+button{
+    width: 300;
+    height: 100;
+
+}
+
+ul{
+    list-style-type: square;
+    color: rgb(32, 8, 70);
+}
+
+img{
+    filter: contrast(10 px);
+}
+
